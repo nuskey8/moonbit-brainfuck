@@ -23,3 +23,5 @@ let source = "++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..
 > Currently, MoonBit does not implement `,` because there is no API to receive standard input in `native` target. Also, `.` is implemented by `println()`.
 
 ## LICENSE
+
+This library is under the [MIT License](./LICENSE).
