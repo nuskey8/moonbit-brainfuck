@@ -1,0 +1,10 @@
+{
+  "name": "nuskey8/brainfuck",
+  "version": "0.1.0",
+  "deps": {},
+  "readme": "README.md",
+  "license": "MIT",
+  "repository": "https://github.com/nuskey8/moonbit-brainfuck",
+  "keywords": [],
+  "description": ""
+}

@@ -1,0 +1,6 @@
+{
+    "import": [
+        "nuskey8/brainfuck/lib"
+    ],
+    "is-main": true
+}
