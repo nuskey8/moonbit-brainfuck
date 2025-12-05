@@ -20,7 +20,7 @@ let source = "++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..
 ```
 
 > [!NOTE]
-> Currently, MoonBit does not implement `,` because there is no API to receive standard input in `native` target. Also, `.` is implemented by `println()`.
+> Currently, MoonBit-Brainfuck does not implement `,` because there is no API to receive standard input in `native` target. Also, `.` is implemented by `println()`.
 
 ## LICENSE
 
